@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.9)),url("imgs/small.jpg") center/cover fixed no-repeat;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+h1 {
+    font-size: 60px;
+    color: lightgrey;
+}
